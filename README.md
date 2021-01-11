@@ -6,5 +6,5 @@ A simple project to present to my coworkers some git and github functionalities
 
 - commit history
 - pull/push
-- branch
 - CI/CD
+- branch
