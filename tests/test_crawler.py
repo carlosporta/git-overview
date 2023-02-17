@@ -7,3 +7,4 @@ def test_abc():
     data = robot.get_data()
 
     assert data == mock.FAKE_DATA
+    assert 0
